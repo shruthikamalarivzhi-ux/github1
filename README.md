@@ -1,3 +1,3 @@
 # github1
-it is a lab program<add>
+it is a lab program<add>github
 
